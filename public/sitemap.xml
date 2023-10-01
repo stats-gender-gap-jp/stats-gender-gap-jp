@@ -6,9 +6,9 @@
   </url><url>
     <loc>http://www.example.com/categories/</loc>
   </url><url>
-    <loc>http://www.example.com/</loc>
-  </url><url>
     <loc>http://www.example.com/series/</loc>
+  </url><url>
+    <loc>http://www.example.com/</loc>
   </url><url>
     <loc>http://www.example.com/tags/</loc>
   </url>
