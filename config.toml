@@ -15,7 +15,7 @@ style = "github-dark"
   author = "stats.gender-gap.jp Admin"
   info = "Full Stack DevOps and Magician"
   description = "John Doe's personal website"
-  keywords = "blog,developer,personal"
+  keywords = "stats,gender,gap"
   avatarurl = "images/avatar.jpg"
   #gravatar = "john.doe@example.com"
 
@@ -77,4 +77,4 @@ style = "github-dark"
 [[menu.main]]
   name = "📮Contact"
   weight = 4
-  url = "action/"
+  url = "contact/"
