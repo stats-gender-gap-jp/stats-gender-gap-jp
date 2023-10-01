@@ -1,5 +1,5 @@
 baseurl = "http://www.example.com"
-title = "johndoe"
+title = "stats.gender-gap.jp"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -12,7 +12,7 @@ disqusShortname = "yourdiscussshortname"
 style = "github-dark"
 
 [params]
-  author = "John Doe"
+  author = "stats.gender-gap.jp Admin"
   info = "Full Stack DevOps and Magician"
   description = "John Doe's personal website"
   keywords = "blog,developer,personal"
@@ -23,7 +23,7 @@ style = "github-dark"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  since = 2019
+  since = 2023 
 
   enableTwemoji = true
 
@@ -59,10 +59,22 @@ style = "github-dark"
 
 # Menu links
 [[menu.main]]
-  name = "Blog"
+  name = "📍Home"
   weight = 1
-  url  = "posts/"
+  url  = "/"
 [[menu.main]]
-  name = "About"
+  name = "🚪About"
   weight = 2
   url = "about/"
+[[menu.main]]
+  name = "📃Data source"
+  weight = 3
+  url = "source/"
+[[menu.main]]
+  name = "🌈Action"
+  weight = 4
+  url = "action/"
+[[menu.main]]
+  name = "📮Contact"
+  weight = 4
+  url = "action/"
