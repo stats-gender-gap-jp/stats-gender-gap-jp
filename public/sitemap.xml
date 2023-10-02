@@ -15,5 +15,7 @@
     <loc>http://www.example.com/action/</loc>
   </url><url>
     <loc>http://www.example.com/source/</loc>
+  </url><url>
+    <loc>http://www.example.com/about/</loc>
   </url>
 </urlset>
