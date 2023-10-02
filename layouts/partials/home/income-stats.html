@@ -1,7 +1,8 @@
 {{ $url := os.Getenv "API_URL"}}
 {{ $dataJ := getJSON $url }}  
 
-  <canvas id="incomeChart" style="position: relative; height: 600px; max-width:800px; margin:auto; width:100%; margin-top:40px;"></canvas>
+  <canvas id="incomeChart" style="position: relative; height: 600px; max-width:500px; margin:auto; width:100%;"></canvas>
+
   <script>
   var dataj = {{ $dataJ }};
   var incomes = dataj.map((obj) => obj.年収レンジ).filter(word => word != null);
