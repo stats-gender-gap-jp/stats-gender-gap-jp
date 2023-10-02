@@ -6,5 +6,29 @@
     <description>Recent content on stats.gender-gap.jp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🌈Action</title>
+      <link>http://www.example.com/action/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/action/</guid>
+      <description>🚶行動してみよう  Link to heading   🗳️選挙へいこう  Link to heading   選挙ドットコムで自分が行ける選挙を探す
+NHK選挙WEBで今の状況を知る
+📣行動は選挙だけじゃない  Link to heading   選択的夫婦別姓・全国陳情アクション
+ 👀活動を知ろう  Link to heading   📺Youtube  Link to heading   東海テレビ　公共キャンペーン「ジェンダー不平等国で生きていく。」  Link to heading      Choose Life ProjectDon’t Be Silent #わきまえない女 たち  Link to heading     📕Books  Link to heading   Choose Life Project #わきまえない女 たちによる選書</description>
+    </item>
+    
+    <item>
+      <title>📃Data source</title>
+      <link>http://www.example.com/source/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/source/</guid>
+      <description>🪜世界における日本のジェンダー順位  Link to heading   Global Gender Gap Report
+💰年収分布の男女格差  Link to heading   e-stat 政府統計ポータルサイト
+🏛️衆議院議席数  Link to heading   届出政党等別男女別新前元別当選人数（小選挙区、比例代表）
+🏛️参議院議席数  Link to heading   参議院 会派別所属議員数</description>
+    </item>
+    
   </channel>
 </rss>
