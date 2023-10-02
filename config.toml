@@ -13,11 +13,11 @@ style = "github-dark"
 
 [params]
   author = "stats.gender-gap.jp Admin"
-  info = "Full Stack DevOps and Magician"
-  description = "John Doe's personal website"
-  keywords = "stats,gender,gap"
+  info = "Stats of gender-gap JP"
+  description = "Stats of gender-gap JP"
+  images = ['images/gender-gap-ogp.jpg']
+  keywords = "stats,gender,gap,jp"
   avatarurl = "images/avatar.jpg"
-  #gravatar = "john.doe@example.com"
 
   faviconSVG = "/images/gender-gap-favicon.svg"
   favicon_32 = "/images/gender-gap-favicon-32x32.png"
@@ -30,32 +30,11 @@ style = "github-dark"
   colorScheme = "light"
   hidecolorschemetoggle = true
 
-  # customCSS = ["css/custom.css"]
-  # customSCSS = ["scss/custom.scss"]
-  # customJS = ["js/custom.js"]
-
 [taxonomies]
   category = "categories"
   series = "series"
   tag = "tags"
   author = "authors"
-
-# Social links
-[[params.social]]
-  name = "Github"
-  icon = "fa fa-github fa-2x"
-  weight = 1
-  url = "https://github.com/johndoe/"
-[[params.social]]
-  name = "Gitlab"
-  icon = "fa fa-gitlab fa-2x"
-  weight = 2
-  url = "https://gitlab.com/johndoe/"
-[[params.social]]
-  name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
-  weight = 3
-  url = "https://twitter.com/johndoe/"
 
 # Menu links
 [[menu.main]]
