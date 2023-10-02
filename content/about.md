@@ -48,5 +48,18 @@ slug = "about"
 
 と思い立ったのがきっかけです。
 
+## 🔧サイト構成について
+hugo-coderをベースに作成しています。  
+統計データは[スプレッドシート](https://docs.google.com/spreadsheets/d/1t7u3Dr85o06OIvaO49LKOipf7ot3SjRVtyXtDI0XL6E/)にまとめており、  
+hugoビルド時にAPI経由でデータを取得しています。
 
+データ更新がある際は、
+- スプレッドシートのデータ更新
+- hugo再ビルドしてPR -> merge
+
+で自動的にnetlify経由でデプロイする仕組みです。
+
+個人活動で更新しているサイトですので、  
+データ更新のお申し出（プロボノ）などがありましたら
+[📮Contact](https://docs.google.com/forms/d/e/1FAIpQLSdv7u_pG63IgZkLBH09SmNOoJ9VfIWQhMM5j2K6denEe92D-Q/viewform)より、随時ご連絡いただけますと幸いです。
 
