@@ -59,7 +59,7 @@ style = "github-dark"
 
 # Menu links
 [[menu.main]]
-  name = "📍Home"
+  name = "📊Home"
   weight = 1
   url  = "/"
 [[menu.main]]
