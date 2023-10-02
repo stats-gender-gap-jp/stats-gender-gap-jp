@@ -18,3 +18,7 @@ slug = "source"
 ##### 🏛️参議院議席数 
 
 [参議院 会派別所属議員数](https://www.sangiin.go.jp/japanese/joho1/kousei/giin/204/giinsu.htm)  
+
+##### 📝データ集計リンク
+
+[統計まとめスプレッドシート](https://docs.google.com/spreadsheets/d/1t7u3Dr85o06OIvaO49LKOipf7ot3SjRVtyXtDI0XL6E/)
