@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on stats.gender-gap.jp</title>
-    <link>http://www.example.com/authors/</link>
+    <link>https://fluffy-kulfi-c275a8.netlify.app/authors/</link>
     <description>Recent content in Authors on stats.gender-gap.jp</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://www.example.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://fluffy-kulfi-c275a8.netlify.app/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

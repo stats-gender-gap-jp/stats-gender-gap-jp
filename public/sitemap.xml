@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>https://fluffy-kulfi-c275a8.netlify.app/authors/</loc>
   </url><url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://fluffy-kulfi-c275a8.netlify.app/categories/</loc>
   </url><url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://fluffy-kulfi-c275a8.netlify.app/series/</loc>
   </url><url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://fluffy-kulfi-c275a8.netlify.app/</loc>
   </url><url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://fluffy-kulfi-c275a8.netlify.app/tags/</loc>
   </url><url>
-    <loc>http://www.example.com/action/</loc>
+    <loc>https://fluffy-kulfi-c275a8.netlify.app/action/</loc>
   </url><url>
-    <loc>http://www.example.com/source/</loc>
+    <loc>https://fluffy-kulfi-c275a8.netlify.app/source/</loc>
   </url><url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>https://fluffy-kulfi-c275a8.netlify.app/about/</loc>
   </url>
 </urlset>
