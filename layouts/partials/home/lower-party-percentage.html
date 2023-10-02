@@ -1,0 +1,67 @@
+{{ $url := os.Getenv "API_URL"}}
+{{ $dataJ := getJSON $url }}
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@0.7.0"></script>
+  <canvas id="womenperChart" style="position: relative; height: 400px; max-width:800px; margin:auto; width:100%; margin-top:40px;"></canvas>
+  <script>
+  var dataj = {{ $dataJ }};
+  var parties = dataj.map((obj) => obj.衆議院ー政党).filter(word => word != null);
+  var per_women = dataj.map((obj) => obj.衆議院ー女性割合 * 100).slice(0, parties.length);
+
+  var wptx = document.getElementById("womenperChart").getContext("2d");
+
+  var data = {
+      labels: parties,
+      datasets: [
+          {
+              label: "衆議院 党内女性議員割合(%)",
+              backgroundColor: 'rgba(255, 99, 132, 1.0)',
+              data: per_women 
+          }
+      ]
+  };
+
+  var myBarChart = new Chart(wptx, {
+      type: 'horizontalBar',
+      data: data,
+      options: {
+          legend: {
+              labels: {fontSize: 15}
+          },
+          barValueSpacing: 50,
+          scales: {
+              xAxes: [{
+                  ticks: {
+                      min: 0,
+                      max: 50,
+                  }
+              }]
+          },
+          title: {
+              display: true,
+              text: '現在(*1)の衆議院, 党での女性議員割合は？',
+              fontSize: 15
+          },
+          plugins: {
+              datalabels: {
+                  backgroundColor:'rgba(120,99,132,0.5)',
+                  borderRadius: 4,
+                  color: 'white',
+                  font: {
+                      weight: 'bold',
+                      size:10
+                  },
+                  formatter: function(value){
+                      return value + "%" ;
+                  },
+                  padding:1,
+                  anchor: 'end',
+                  clamp: true,
+                  align: 'top'
+              }
+          }
+
+
+      }
+  });
+  </script>
