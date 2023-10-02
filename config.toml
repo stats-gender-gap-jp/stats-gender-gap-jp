@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "https://fluffy-kulfi-c275a8.netlify.app/"
 title = "stats.gender-gap.jp"
 theme = "hugo-coder"
 languagecode = "en"
