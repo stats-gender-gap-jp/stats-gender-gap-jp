@@ -1,6 +1,6 @@
 {{ $url := os.Getenv "API_URL"}}
 {{ $dataJ := getJSON $url }}
-  <canvas id="dietmemChart" style="position: relative; height: 70vh; max-width:95vw; margin:auto; margin-top:40px;"></canvas>
+  <canvas id="dietmemChart" style="position: relative; height: 600px; max-width:800px; width:100%; margin:auto; margin-top:40px;"></canvas>
   <script>
   var dtx = document.getElementById("dietmemChart").getContext("2d");
 
