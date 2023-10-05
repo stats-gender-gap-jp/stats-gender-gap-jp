@@ -5,7 +5,18 @@
     <link>https://fluffy-kulfi-c275a8.netlify.app/</link>
     <description>Recent content on stats.gender-gap.jp</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://fluffy-kulfi-c275a8.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fluffy-kulfi-c275a8.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🛠️サイトリニューアルしました</title>
+      <link>https://fluffy-kulfi-c275a8.netlify.app/updates/hugo-renew/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fluffy-kulfi-c275a8.netlify.app/updates/hugo-renew/</guid>
+      <description>💻hugoテンプレートの変更 🚪About, 📍Updatesタブ追加 📮Contactフォーム追加  などなど、色々変更を追加しました。
+データ更新・追加時や、デザインを大きく変更した際の通知もこちらでお知らせしていく予定です。</description>
+    </item>
+    
     <item>
       <title>🌈Action</title>
       <link>https://fluffy-kulfi-c275a8.netlify.app/action/</link>
@@ -43,7 +54,7 @@ NHK選挙WEBで今の状況を知る
 政府統計など、公式に公開されている資料をもとに作成していますが
  🤯公式資料は数字の羅列だけで読みづらい 😵‍💫実際にどの程度ジェンダーギャップがあるのかが分かりにくい 🤔自分たちができることを考えるにはどうすれば？  といった点に問題を感じてこのサイトを作成しました。
 2023/10 現在、管理人個人の活動で
- データ収集 サイト更新  を行なっています。
+ 🌐データ収集 ✍️サイト更新  を行なっています。
 ❤️‍🔥サイトを作った動機  Link to heading   日本国内の報道でしばしば
  「ジェンダーギャップ指数」 「過去最低xx位」  といった報道がありますが、
 それに関連する資料を調べていると
