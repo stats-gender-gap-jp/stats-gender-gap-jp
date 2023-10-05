@@ -2,13 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://fluffy-kulfi-c275a8.netlify.app/authors/admin/</loc>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://fluffy-kulfi-c275a8.netlify.app/authors/</loc>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fluffy-kulfi-c275a8.netlify.app/</loc>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fluffy-kulfi-c275a8.netlify.app/updates/</loc>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fluffy-kulfi-c275a8.netlify.app/updates/hugo-renew/</loc>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fluffy-kulfi-c275a8.netlify.app/categories/</loc>
   </url><url>
     <loc>https://fluffy-kulfi-c275a8.netlify.app/series/</loc>
-  </url><url>
-    <loc>https://fluffy-kulfi-c275a8.netlify.app/</loc>
   </url><url>
     <loc>https://fluffy-kulfi-c275a8.netlify.app/tags/</loc>
   </url><url>

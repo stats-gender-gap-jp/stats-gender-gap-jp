@@ -18,8 +18,8 @@ slug = "about"
 といった点に問題を感じてこのサイトを作成しました。
 
 2023/10 現在、管理人個人の活動で
-- データ収集
-- サイト更新
+- 🌐データ収集
+- ✍️サイト更新
 
 を行なっています。
 
@@ -49,7 +49,7 @@ slug = "about"
 と思い立ったのがきっかけです。
 
 ## 🔧サイト構成について
-hugo-coderをベースに作成しています。  
+[hugo-coderをベース](https://github.com/stats-gender-gap-jp/stats-gender-gap-jp)に作成しています。  
 統計データは[スプレッドシート](https://docs.google.com/spreadsheets/d/1t7u3Dr85o06OIvaO49LKOipf7ot3SjRVtyXtDI0XL6E/)にまとめており、  
 hugoビルド時にAPI経由でデータを取得しています。
 
