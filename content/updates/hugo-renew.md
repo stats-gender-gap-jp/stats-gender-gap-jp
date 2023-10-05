@@ -1,7 +1,7 @@
 +++
 authors = ["Admin"]
 title = "🛠️サイト刷新のお知らせ"
-date = "2023-10-04"
+date = "2023-10-05"
 description = "stats.gender-gap.jp site reconstruct."
 
 aliases = ["site-renewal-hugo"]
