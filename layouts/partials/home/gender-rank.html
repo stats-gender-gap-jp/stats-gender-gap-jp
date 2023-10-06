@@ -8,7 +8,9 @@
     var dataj = {{ $dataJ }};
     var years = dataj.map((obj) => obj.西暦).filter(word => word != null);
     var rank = dataj.map((obj) => obj.順位).filter(word => word != null);
+    var rank_neq = dataj.map((obj) => obj.不平等順位).filter(word => word != null);
     rank = rank.map((obj) => obj * -1);
+    rank_neq = rank_neq.map((obj) => obj * -1);
 
     var ctx = document.getElementById("myChart").getContext('2d');
     var element = document.getElementById("myChart")
@@ -18,13 +20,47 @@
             labels: years,
             datasets: [{
                 type: 'line',
-                label: '政治, 世界156ヵ国中',
+                label: '政治, "平等"の順位',
                 data: rank,
+                datalabels: {
+                    backgroundColor:'rgba(255,99,132,1.0)',
+                    borderRadius: 4,
+                    color: 'white',
+                    font: {
+                        weight: 'bold'
+                    },
+                    formatter: function(value){
+                        return value * -1;
+                    },
+                    padding: 6
+                },
                 backgroundColor: 'rgba(255, 99, 132, 0.0)',
                 borderColor: 'rgba(255,99,132,1)',
-                borderWidth: 1,
+                borderWidth: 2,
                 lineTension: 0
-            }]
+            },
+            {
+                type: 'line',
+                label: '政治, "不平等"の順位',
+                data: rank_neq,
+                datalabels: {
+                    backgroundColor:'rgba(132,99,255,1.0)',
+                    borderRadius: 4,
+                    color: 'white',
+                    font: {
+                        weight: 'bold'
+                    },
+                    formatter: function(value){
+                        return value * -1;
+                    },
+                    padding: 6
+                },
+                backgroundColor: 'rgba(132, 99, 255, 0.0)',
+                borderColor: 'rgba(132,99,255,1)',
+                borderWidth: 2,
+                lineTension: 0
+            }
+            ]
         },
         options: {
             legend: {
@@ -42,22 +78,8 @@
             },
             title: {
                 display: true,
-                text: '日本のジェンダー順位は世界でどのあたり？',
+                text: '日本のジェンダー順位(政治)は世界でどのあたり？',
                 fontSize: 15
-            },
-            plugins: {
-                datalabels: {
-                    backgroundColor:'rgba(255,99,132,1.0)',
-                    borderRadius: 4,
-                    color: 'white',
-                    font: {
-                        weight: 'bold'
-                    },
-                    formatter: function(value){
-                        return value * -1;
-                    },
-                    padding: 6
-                }
             }
         }
     });
