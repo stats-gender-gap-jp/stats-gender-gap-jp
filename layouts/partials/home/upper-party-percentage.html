@@ -3,28 +3,25 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@0.7.0"></script>
   <canvas id="UpperWomenPerChart" style="position: relative; relative; height: 400px; max-width:800px; margin:auto; width:100%; margin-top:40px;"></canvas>
-
   <script>
   var dataj = {{ $dataJ }};
-  var upper_parties = dataj.map((obj) => obj.参議院ー政党).filter(word => word != null);
-  var per_women = dataj.map((obj) => obj.参議院ー女性割合 * 100).slice(0, upper_parties.length);
-  console.log(upper_parties);
-  console.log(dataj);
+  var parties = dataj.map((obj) => obj.参議院ー政党).filter(word => word != null);
+  var per_women = dataj.map((obj) => obj.参議院ー女性割合 * 100).slice(0, parties.length);
 
   var wptx = document.getElementById("UpperWomenPerChart").getContext("2d");
 
   var data = {
-      labels: upper_parties,
+      labels: parties,
       datasets: [
           {
               label: "参議院 党内女性議員割合(%)",
               backgroundColor: 'rgba(255, 99, 132, 1.0)',
-              data: per_women 
+              data: per_women
           }
       ]
   };
 
-  var UpperWomenBarChart = new Chart(wptx, {
+  var myBarChart = new Chart(wptx, {
       type: 'horizontalBar',
       data: data,
       options: {
@@ -55,7 +52,7 @@
                       size:10
                   },
                   formatter: function(value){
-                      return value + "%" ;
+                      return (Math.floor(value * 100) / 100) + "%" ;
                   },
                   padding:1,
                   anchor: 'end',
