@@ -1,7 +1,7 @@
 {{ $url := os.Getenv "API_URL"}}
 {{ $dataJ := getJSON $url }}  
 
-  <canvas id="incomeChart" style="position: relative; height: 600px; max-width:500px; margin:auto; width:100%;"></canvas>
+  <canvas id="incomeChart" style="position: relative; height: 600px; max-width:500px; margin:auto; width:100%; margin-top:40px;"></canvas>
 
   <script>
   var dataj = {{ $dataJ }};
@@ -43,7 +43,7 @@
           },
           title: {
               display: true,
-              text: '男女の年収の違いは？',
+              text: '男女の年収の違い(*1)は？',
               fontSize: 15
           },
           scales: {
@@ -62,7 +62,6 @@
               xAxes: [
                   {
                       display: true,
-                      position: 'top',
                       ticks: {
                           min: 0,
                           callback: function(value, index, values) {

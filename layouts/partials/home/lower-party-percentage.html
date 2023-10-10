@@ -33,13 +33,13 @@
               xAxes: [{
                   ticks: {
                       min: 0,
-                      max: 50,
+                      max: 100,
                   }
               }]
           },
           title: {
               display: true,
-              text: '現在(*1)の衆議院, 党での女性議員割合は？',
+              text: '現在(*2)の衆議院, 党での女性議員割合は？',
               fontSize: 15
           },
           plugins: {
@@ -52,7 +52,7 @@
                       size:10
                   },
                   formatter: function(value){
-                      return value + "%" ;
+                      return (Math.floor(value * 100) / 100) + "%" ;
                   },
                   padding:1,
                   anchor: 'end',
