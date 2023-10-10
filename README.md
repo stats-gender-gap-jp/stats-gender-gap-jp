@@ -1,5 +1,3 @@
-
-----
 ### Live Production
 https://stats.gender-gap.jp/
 
@@ -20,7 +18,7 @@ https://stats.gender-gap.jp/source/
 ※セキュリティの観点より、  
 現状では管理人のみ作業可能にしています。  
 データの更新およびcontributionにご興味あります場合は、  
-下記 Contact よりご連絡いただけますと幸いです。
+[Contact](https://github.com/stats-gender-gap-jp/stats-gender-gap-jp#contact)よりご連絡いただけますと幸いです。
 
 ----
 ### Motive
