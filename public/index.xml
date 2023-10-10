@@ -35,11 +35,18 @@ NHK選挙WEBで今の状況を知る
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fluffy-kulfi-c275a8.netlify.app/source/</guid>
-      <description>🪜世界における日本のジェンダー順位  Link to heading   Global Gender Gap Report
+      <description>🪜世界における日本のジェンダー順位(政治)  Link to heading   Global Gender Gap Report
+TABLE1.2 The Global Gender Gap Index 2023, results by subindex
+を元に作成しています
+ &amp;ldquo;平等国&amp;quot;順位は最上位から数えた順位 &amp;ldquo;不平等国&amp;quot;順位は最下位から数えた順位  になります。
 💰年収分布の男女格差  Link to heading   e-stat 政府統計ポータルサイト
-🏛️衆議院議席数  Link to heading   届出政党等別男女別新前元別当選人数（小選挙区、比例代表）
-🏛️参議院議席数  Link to heading   参議院 会派別所属議員数
-📝データ集計リンク  Link to heading   統計まとめスプレッドシート</description>
+(*1)2023-07-21の記載を元にグラフを作成しています。
+データ自体は2022年10月時点で集計したものになります。
+🏛️衆議院議席数  Link to heading   衆議院 会派別所属議員数
+(*2)2023-10-04の記載を元にグラフを作成しています。
+サイト上のグラフでは、
+ 自由民主党・無所属の会 -&amp;gt; 自由民主党 立憲民主党・無所属 -&amp;gt; 立憲民主党 国民民主党・無所属クラブ -&amp;gt; 国民民主党  と略記しています。
+🏛️参議院議席数  Link to heading   参議院 会派別所属議員数</description>
     </item>
     
     <item>
