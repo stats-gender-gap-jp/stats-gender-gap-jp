@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>stats.gender-gap.jp</title>
-    <link>https://fluffy-kulfi-c275a8.netlify.app/</link>
+    <link>https://stats.gender-gap.jp/</link>
     <description>Recent content on stats.gender-gap.jp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 16 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fluffy-kulfi-c275a8.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://stats.gender-gap.jp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🆙データ更新について</title>
-      <link>https://fluffy-kulfi-c275a8.netlify.app/updates/data-updated-2023-10-10/</link>
+      <link>https://stats.gender-gap.jp/updates/data-updated-2023-10-10/</link>
       <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://fluffy-kulfi-c275a8.netlify.app/updates/data-updated-2023-10-10/</guid>
+      <guid>https://stats.gender-gap.jp/updates/data-updated-2023-10-10/</guid>
       <description>各種データを更新しました。
 具体的には
  🪜ジェンダー国別順位に&amp;quot;不平等国&amp;quot;(worst)順を追加. データ取得期間を2020-2023に 💰収入分布データを最近の調査(2022/10)の値に 🏛️衆議院議員数を衆議院HPの最近(2023/10)の値に  更新しています。</description>
@@ -20,20 +20,20 @@
     
     <item>
       <title>🛠️サイト刷新のお知らせ</title>
-      <link>https://fluffy-kulfi-c275a8.netlify.app/updates/hugo-renew/</link>
+      <link>https://stats.gender-gap.jp/updates/hugo-renew/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://fluffy-kulfi-c275a8.netlify.app/updates/hugo-renew/</guid>
+      <guid>https://stats.gender-gap.jp/updates/hugo-renew/</guid>
       <description>💻hugoテンプレートの変更に伴うデザイン刷新 🚪About 📍Updatesタブ追加 📮Contactフォーム追加  などなど、色々変更を追加しました。
  データ更新・追加時 デザインを大きく変更した際  などの通知もこちらでお知らせしていく予定です。</description>
     </item>
     
     <item>
       <title>🌈Action</title>
-      <link>https://fluffy-kulfi-c275a8.netlify.app/action/</link>
+      <link>https://stats.gender-gap.jp/action/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fluffy-kulfi-c275a8.netlify.app/action/</guid>
+      <guid>https://stats.gender-gap.jp/action/</guid>
       <description>🚶行動してみよう  見出しへのリンク   🗳️選挙へいこう  見出しへのリンク   選挙ドットコムで自分が行ける選挙を探す
 NHK選挙WEBで今の状況を知る
 📣行動は選挙だけじゃない  見出しへのリンク   選択的夫婦別姓・全国陳情アクション
@@ -42,12 +42,12 @@ NHK選挙WEBで今の状況を知る
     
     <item>
       <title>📃Data source</title>
-      <link>https://fluffy-kulfi-c275a8.netlify.app/source/</link>
+      <link>https://stats.gender-gap.jp/source/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fluffy-kulfi-c275a8.netlify.app/source/</guid>
+      <guid>https://stats.gender-gap.jp/source/</guid>
       <description>🪜世界における日本のジェンダー順位(政治)  見出しへのリンク   Global Gender Gap Report
-TABLE1.2 The Global Gender Gap Index 2023, results by subindex
+TABLE1.2 The Global Gender Gap Index 2023, results by subindex(Political Empowerment)
 を元に作成しています
  &amp;ldquo;平等国&amp;quot;順位は最上位から数えた順位 &amp;ldquo;不平等国&amp;quot;順位は最下位から数えた順位  になります。
 💰年収分布の男女格差  見出しへのリンク   e-stat 政府統計ポータルサイト
@@ -64,10 +64,10 @@ TABLE1.2 The Global Gender Gap Index 2023, results by subindex
     
     <item>
       <title>🚪About</title>
-      <link>https://fluffy-kulfi-c275a8.netlify.app/about/</link>
+      <link>https://stats.gender-gap.jp/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fluffy-kulfi-c275a8.netlify.app/about/</guid>
+      <guid>https://stats.gender-gap.jp/about/</guid>
       <description>📝このサイトについて  見出しへのリンク   主に日本国内のジェンダーギャップについて
 様々な📊グラフで可視化するサイトです。
 まずは 🏛️政治💰経済 分野を中心にしたデータを可視化していく予定です。
