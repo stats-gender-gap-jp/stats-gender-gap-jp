@@ -6,7 +6,19 @@
     <description>Recent content on stats.gender-gap.jp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fluffy-kulfi-c275a8.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fluffy-kulfi-c275a8.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🆙データ更新について</title>
+      <link>https://fluffy-kulfi-c275a8.netlify.app/updates/data-updated-2023-10-10/</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fluffy-kulfi-c275a8.netlify.app/updates/data-updated-2023-10-10/</guid>
+      <description>各種データを更新しました。
+具体的には
+ 🪜ジェンダー国別順位に&amp;quot;不平等国&amp;quot;(worst)順を追加. データ取得期間を2020-2023に 💰収入分布データを最近の調査(2022/10)の値に 🏛️衆議院議員数を衆議院HPの最近（2023/10）の値に  更新しています。
+データ内容等につきまして、お問い合わせ内容がございましたら📮Contactタブよりご連絡ください。</description>
+    </item>
+    
     <item>
       <title>🛠️サイト刷新のお知らせ</title>
       <link>https://fluffy-kulfi-c275a8.netlify.app/updates/hugo-renew/</link>
