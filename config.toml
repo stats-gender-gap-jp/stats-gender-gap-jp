@@ -1,8 +1,8 @@
 baseurl = "https://fluffy-kulfi-c275a8.netlify.app/"
 title = "stats.gender-gap.jp"
 theme = "hugo-coder"
-languagecode = "en"
-defaultcontentlanguage = "en"
+languagecode = "ja"
+defaultcontentlanguage = "ja"
 
 paginate = 20
 
