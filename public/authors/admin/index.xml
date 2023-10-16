@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Admin on stats.gender-gap.jp</title>
-    <link>https://fluffy-kulfi-c275a8.netlify.app/authors/admin/</link>
+    <link>https://stats.gender-gap.jp/authors/admin/</link>
     <description>Recent content in Admin on stats.gender-gap.jp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 16 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fluffy-kulfi-c275a8.netlify.app/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://stats.gender-gap.jp/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🆙データ更新について</title>
-      <link>https://fluffy-kulfi-c275a8.netlify.app/updates/data-updated-2023-10-10/</link>
+      <link>https://stats.gender-gap.jp/updates/data-updated-2023-10-10/</link>
       <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://fluffy-kulfi-c275a8.netlify.app/updates/data-updated-2023-10-10/</guid>
+      <guid>https://stats.gender-gap.jp/updates/data-updated-2023-10-10/</guid>
       <description>各種データを更新しました。
 具体的には
  🪜ジェンダー国別順位に&amp;quot;不平等国&amp;quot;(worst)順を追加. データ取得期間を2020-2023に 💰収入分布データを最近の調査(2022/10)の値に 🏛️衆議院議員数を衆議院HPの最近(2023/10)の値に  更新しています。</description>
@@ -20,10 +20,10 @@
     
     <item>
       <title>🛠️サイト刷新のお知らせ</title>
-      <link>https://fluffy-kulfi-c275a8.netlify.app/updates/hugo-renew/</link>
+      <link>https://stats.gender-gap.jp/updates/hugo-renew/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://fluffy-kulfi-c275a8.netlify.app/updates/hugo-renew/</guid>
+      <guid>https://stats.gender-gap.jp/updates/hugo-renew/</guid>
       <description>💻hugoテンプレートの変更に伴うデザイン刷新 🚪About 📍Updatesタブ追加 📮Contactフォーム追加  などなど、色々変更を追加しました。
  データ更新・追加時 デザインを大きく変更した際  などの通知もこちらでお知らせしていく予定です。</description>
     </item>
