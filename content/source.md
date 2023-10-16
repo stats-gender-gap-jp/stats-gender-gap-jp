@@ -7,7 +7,7 @@ slug = "source"
 
 [Global Gender Gap Report](https://jp.weforum.org/reports/global-gender-gap-report-2023)
 
-TABLE1.2 The Global Gender Gap Index 2023, results by subindex  
+TABLE1.2 The Global Gender Gap Index 2023, results by subindex(Political Empowerment)  
 を元に作成しています
 
 - "平等国"順位は最上位から数えた順位
