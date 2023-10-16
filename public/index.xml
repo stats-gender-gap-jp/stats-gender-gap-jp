@@ -5,7 +5,7 @@
     <link>https://fluffy-kulfi-c275a8.netlify.app/</link>
     <description>Recent content on stats.gender-gap.jp</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>ja</language>
     <lastBuildDate>Mon, 16 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fluffy-kulfi-c275a8.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🆙データ更新について</title>
@@ -34,10 +34,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fluffy-kulfi-c275a8.netlify.app/action/</guid>
-      <description>🚶行動してみよう  Link to heading   🗳️選挙へいこう  Link to heading   選挙ドットコムで自分が行ける選挙を探す
+      <description>🚶行動してみよう  見出しへのリンク   🗳️選挙へいこう  見出しへのリンク   選挙ドットコムで自分が行ける選挙を探す
 NHK選挙WEBで今の状況を知る
-📣行動は選挙だけじゃない  Link to heading   選択的夫婦別姓・全国陳情アクション
- 👀活動を知ろう  Link to heading   📺Youtube  Link to heading   東海テレビ　公共キャンペーン「ジェンダー不平等国で生きていく。」  Link to heading      Choose Life ProjectDon’t Be Silent #わきまえない女 たち  Link to heading     📕Books  Link to heading   Choose Life Project #わきまえない女 たちによる選書</description>
+📣行動は選挙だけじゃない  見出しへのリンク   選択的夫婦別姓・全国陳情アクション
+ 👀活動を知ろう  見出しへのリンク   📺Youtube  見出しへのリンク   東海テレビ　公共キャンペーン「ジェンダー不平等国で生きていく。」  見出しへのリンク      Choose Life ProjectDon’t Be Silent #わきまえない女 たち  見出しへのリンク     📕Books  見出しへのリンク   Choose Life Project #わきまえない女 たちによる選書</description>
     </item>
     
     <item>
@@ -46,18 +46,20 @@ NHK選挙WEBで今の状況を知る
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fluffy-kulfi-c275a8.netlify.app/source/</guid>
-      <description>🪜世界における日本のジェンダー順位(政治)  Link to heading   Global Gender Gap Report
+      <description>🪜世界における日本のジェンダー順位(政治)  見出しへのリンク   Global Gender Gap Report
 TABLE1.2 The Global Gender Gap Index 2023, results by subindex
 を元に作成しています
  &amp;ldquo;平等国&amp;quot;順位は最上位から数えた順位 &amp;ldquo;不平等国&amp;quot;順位は最下位から数えた順位  になります。
-💰年収分布の男女格差  Link to heading   e-stat 政府統計ポータルサイト
+💰年収分布の男女格差  見出しへのリンク   e-stat 政府統計ポータルサイト
 (*1)2023-07-21の記載を元にグラフを作成しています。
 データ自体は2022年10月時点で集計したものになります。
-🏛️衆議院議席数  Link to heading   衆議院 会派別所属議員数
+🏛️衆議院議席数  見出しへのリンク   衆議院 会派別所属議員数
 (*2)2023-10-04の記載を元にグラフを作成しています。
 サイト上のグラフでは、
  自由民主党・無所属の会 -&amp;gt; 自由民主党 立憲民主党・無所属 -&amp;gt; 立憲民主党 国民民主党・無所属クラブ -&amp;gt; 国民民主党  と略記しています。
-🏛️参議院議席数  Link to heading   参議院 会派別所属議員数</description>
+🏛️参議院議席数  見出しへのリンク   参議院 会派別所属議員数
+(*3)2021-10-03の記載を元にグラフを作成しています。 サイト上のグラフでは、
+ 自由民主党・国民の声 -&amp;gt; 自由民主党 国民民主党・新緑風会 -&amp;gt; 国民民主党 各派に属しない議員 -&amp;gt; 無所属  と略記しています。</description>
     </item>
     
     <item>
@@ -66,24 +68,25 @@ TABLE1.2 The Global Gender Gap Index 2023, results by subindex
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fluffy-kulfi-c275a8.netlify.app/about/</guid>
-      <description>📝このサイトについて  Link to heading   主に日本国内のジェンダーギャップについて
+      <description>📝このサイトについて  見出しへのリンク   主に日本国内のジェンダーギャップについて
 様々な📊グラフで可視化するサイトです。
 まずは 🏛️政治💰経済 分野を中心にしたデータを可視化していく予定です。
 政府統計など、公式に公開されている資料をもとに作成していますが
  🤯公式資料は数字の羅列だけで読みづらい 😵‍💫実際にどの程度ジェンダーギャップがあるのかが分かりにくい 🤔自分たちができることを考えるにはどうすれば？  といった点に問題を感じてこのサイトを作成しました。
 2023/10 現在、管理人個人の活動で
  🌐データ収集 ✍️サイト更新  を行なっています。
-❤️‍🔥サイトを作った動機  Link to heading   日本国内の報道でしばしば
+❤️‍🔥サイトを作った動機  見出しへのリンク   日本国内の報道でしばしば
  「ジェンダーギャップ指数」 「過去最低xx位」  といった報道がありますが、
 それに関連する資料を調べていると
  🧑‍🏫教育 🏥健康 🏛️政治 💰経済  の4分野での統計をもとにジェンダーギャップ指数と順位が定められています。
 その中でも
  🏛️政治 💰経済  での格差が特に激しい、というのが日本の現状であるため、
  👀まずはそのあたりを可視化しよう 🗞️毎年記事は出てくるけど、それだけでは情報がバラバラ 📝だったら1つのサイトにまとめてみよう  と思い立ったのがきっかけです。
-🔧サイト構成について  Link to heading   hugo-coderをベースに作成しています。
+🔧サイト構成について  見出しへのリンク   hugo-coderをベースに作成しています。
 統計データはスプレッドシートにまとめており、
 hugoビルド時にAPI経由でデータを取得しています。
-データ更新がある際は、</description>
+データ更新がある際は、
+ スプレッドシートのデータ更新 hugo再ビルドしてPR -&amp;gt; merge  で自動的にnetlify経由でデプロイする仕組みです。</description>
     </item>
     
   </channel>
